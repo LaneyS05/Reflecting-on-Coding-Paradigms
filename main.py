@@ -61,3 +61,36 @@ podracer4.flame_jet(podracer1)
 podracer3.boost()
 podracer1.repair()
 podracer2.repair()
+
+"""
+#1 Encapsulation: max_speed, condition, and price are encapsulated within the class
+Abstraction: Podracer class does not need to know the internal details of how the class is implemented
+Inheritance: AnakinsPod and SebulbasPod inherit from the Podracer class
+Polymorphism: flame_jet method takes an argument other, which can be any object that is an instance of the Podracer 
+"""
+
+#2 do not know
+
+#3 like mentioned above it uses all of the 4 pillars of OOP
+
+
+#Reflection
+
+"""
+I personly like OOP better because we can use objects instead of 
+using a bunch variables that makes our code longer.
+I also prefer this way because OOP makes the code more reusable ans flexable.
+"""
+
+"""
+functional programming
+   function purity
+   declarative programing
+   high-order function
+"""
+
+# Object Oriented Programming 4 pillars
+
+"""
+for me OOP is a little harder but im getting there
+after some more practice I shoild understand more.
